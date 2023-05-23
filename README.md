@@ -1,4 +1,4 @@
-### Hi there 👋
+I bring a special set of abilities and knowledge to the field of full-stack web development as a motivated and adaptable person. I have a strong foundation in data management and a sharp eye for detail thanks to my experience in finance, accounting and software development. My aptitude for FoxPro for DOS 2.6, Visual Basic 6 and Excel automation utilizing VBA illustrates my capacity to pick up new technologies like HTML5, CSS3, Tailwind CSS, Javascript, Reactjs, Nodejs, Expressjs fast and adapt. As a junior full-stack web developer, I'm eager to use my love of coding to build dynamic, user-friendly websites that improve user experience and promote commercial success.
 
 <!--
 **AhmadSheerazSaeed/AhmadSheerazSaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
