@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Full Stack Web Developer
 -------------------------------
 
-I bring a special set of abilities and knowledge to the field of full-stack web development as a motivated and adaptable person. I have a strong foundation in data management and a sharp eye for detail thanks to my experience in finance, accounting and software development. My aptitude for FoxPro for DOS 2.6, Visual Basic 6 and Excel automation utilizing VBA illustrates my capacity to pick up new technologies like HTML5, CSS3, Tailwind CSS, JavaScript, ReactJS, Node.js, Express.js fast and adapt. As a junior full-stack web developer, I'm eager to use my love of coding to build dynamic, user-friendly websites that improve user experience and promote commercial success.
+I bring a special set of abilities and knowledge to the field of full-stack web development as a motivated and adaptable person. I have a strong foundation in data management and a sharp eye for detail thanks to my experience in finance, accounting and software development. My aptitude for FoxPro for DOS 2.6, Visual Basic 6 and Excel automation utilizing VBA illustrates my capacity to pick up new technologies like HTML5, CSS3, Tailwind CSS, JavaScript, ReactJS, Node.js, and Express.js quickly and adapt. As a junior full-stack web developer, I'm eager to use my love of coding to build dynamic, user-friendly websites that improve the user experience and promote commercial success.
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [Khera724@gmail.com](mailto:Khera724@gmail.com)
